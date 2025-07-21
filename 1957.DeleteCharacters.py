@@ -41,4 +41,5 @@ def delete_characters(s):
 
     return fancy_string
 
+
 print("test: " + delete_characters("leeetcode"))
